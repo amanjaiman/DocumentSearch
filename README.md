@@ -47,3 +47,16 @@ The application will add 100 documents at a time (in order to stay within the AP
 
 ## Searching with DocumentSearch
 Once the documents have been added, you can search through the database by providing terms. The application will return the first 20 documents found and gives you the option to view more.
+
+```shell
+DocumentSearch Demo - Current DB Size: 8000
+Enter a search term <QUIT to quit>
+You can split multiple terms by a comma (,)
+Search: Obama,Medicare
+Document Count: 29
+Displaying 20 documents. <ENTER to see more, q to quit>
+The Guardian view on the US election: the time is right for a female president: https://www.theguardian.com/commentisfree/2016/oct/21/guardian-view-on-us-presidency-time-is-right-for-female-leader-hillary-clinton
+Trump's pick for key health post known for punitive Medicaid plan: https://www.theguardian.com/us-news/2016/dec/04/seema-verma-trump-centers-medicare-medicaid-cms
+...
+What If You Could Take It With You? Health Insurance, That Is: http://www.npr.org/sections/health-shots/2017/02/28/517720563/what-if-you-could-take-it-with-you-health-insurance-that-is
+```
