@@ -48,7 +48,7 @@ The application will add 100 documents at a time (in order to stay within the AP
 ## Searching with DocumentSearch
 Once the documents have been added, you can search through the database by providing terms. The application will return the first 20 documents found and gives you the option to view more.
 
-```shell
+```
 DocumentSearch Demo - Current DB Size: 8000
 Enter a search term <QUIT to quit>
 You can split multiple terms by a comma (,)
