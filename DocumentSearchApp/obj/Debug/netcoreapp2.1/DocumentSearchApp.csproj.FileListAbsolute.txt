@@ -1,0 +1,11 @@
+C:\Users\amanj\source\repos\DocumentSearch\DocumentSearchApp\bin\Debug\netcoreapp2.1\DocumentSearchApp.deps.json
+C:\Users\amanj\source\repos\DocumentSearch\DocumentSearchApp\bin\Debug\netcoreapp2.1\DocumentSearchApp.runtimeconfig.json
+C:\Users\amanj\source\repos\DocumentSearch\DocumentSearchApp\bin\Debug\netcoreapp2.1\DocumentSearchApp.runtimeconfig.dev.json
+C:\Users\amanj\source\repos\DocumentSearch\DocumentSearchApp\bin\Debug\netcoreapp2.1\DocumentSearchApp.dll
+C:\Users\amanj\source\repos\DocumentSearch\DocumentSearchApp\obj\Debug\netcoreapp2.1\DocumentSearchApp.csproj.CoreCompileInputs.cache
+C:\Users\amanj\source\repos\DocumentSearch\DocumentSearchApp\obj\Debug\netcoreapp2.1\DocumentSearchApp.AssemblyInfoInputs.cache
+C:\Users\amanj\source\repos\DocumentSearch\DocumentSearchApp\obj\Debug\netcoreapp2.1\DocumentSearchApp.AssemblyInfo.cs
+C:\Users\amanj\source\repos\DocumentSearch\DocumentSearchApp\bin\Debug\netcoreapp2.1\DocumentSearchApp.pdb
+C:\Users\amanj\source\repos\DocumentSearch\DocumentSearchApp\obj\Debug\netcoreapp2.1\DocumentSearchApp.csprojAssemblyReference.cache
+C:\Users\amanj\source\repos\DocumentSearch\DocumentSearchApp\obj\Debug\netcoreapp2.1\DocumentSearchApp.dll
+C:\Users\amanj\source\repos\DocumentSearch\DocumentSearchApp\obj\Debug\netcoreapp2.1\DocumentSearchApp.pdb
