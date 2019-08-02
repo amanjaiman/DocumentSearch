@@ -45,7 +45,7 @@ $ DocumentSearch.exe
 Upon running the application, you should be asked for a search term. Here, you can enter `AdminDb:` followed by the number of documents you want to add to your database. For example: `AdminDb:1000` to add 1000 documents.
 The application will add 100 documents at a time (in order to stay within the API's data limit) until it is done.
 
-You can also choose to import an existing .json file into MongoDB (such as the [sample data](https://github.com/amanjaiman/DocumentSearch/blob/master/data.json)).
+You can also choose to import an existing .json file into MongoDB (such as the [sample data](https://github.com/amanjaiman/DocumentSearch/blob/master/data.json)). Import this into DocumentSearch.Document.
 
 ## Searching with DocumentSearch
 Once the documents have been added, you can search through the database by providing terms. The application will return the first 20 documents found and gives you the option to view more.
